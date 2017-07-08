@@ -2,7 +2,7 @@
 ---
 The timings system for the "Fall Of Tarrin" gamemode, mainly uploaded to serve as a guide for future developers involved in the project.
 
-_It is recommended that this project is used as a library rather than a plugin. However for the sake of demonstrating the uses it is build as is. The developers of Tarrin should understand that the timings system will be used as a timings manager to dictate when certain callbacks need to happen. This makes all timers linked into a single manager, instead of having each class have it's own scheduled task running._
+_It is recommended that this project is used as a library rather than a plugin. However for the sake of demonstrating the uses it is built as is. The developers of Tarrin should understand that the timings system will be used as a timings manager to dictate when certain callbacks need to happen. This makes all timers linked into a single manager, instead of having each class have it's own scheduled task running._
 
 _NOTE: Nothing here is optimized yet, this aims to be a simple guide for developers that are apart of the "Fall Of Tarrin" project._
 
