@@ -1,0 +1,4 @@
+name: TarrinHeartbeat
+version: 0.1
+main: net.nafana.tarrinheartbeat.TarrinHeartbeatMain
+author: Nafana
