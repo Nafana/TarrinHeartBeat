@@ -59,7 +59,7 @@ This is the final result of our callback.
 ##### Information about Usage
 ---
 
-The timings system considers three possible enums as te callback types.
+The timings system considers three possible enums as the callback types.
 * **`SINGULAR`** - _Used when a task needs to be run once._
 * **`COUNTED`**  - _Used when a task needs to be run a given amount of times._
 * **`RECURRING`**- _Used when the task needs to run throughout the duration of server uptime._
